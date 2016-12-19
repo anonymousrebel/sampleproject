@@ -2,6 +2,6 @@
 # testing in general, but rather to support the `find_packages` example in
 # setup.py that excludes installing the "tests" package
 
-
+# This needs a description
 def test_success():
     assert True
